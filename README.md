@@ -8,8 +8,8 @@ Foi desenvolvido no Eclipse</p>
 
 #PRÉ REQUISITOS
 Java -postgresql- eclipse
-INICIALIZAÇÃO
 
+INICIALIZAÇÃO
 Faça o download ou clone este repositório;
 Faça o import da base de dados para o seu SGBD;
 Faça o import do projecto para eclipse
