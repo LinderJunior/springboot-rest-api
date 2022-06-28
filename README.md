@@ -13,6 +13,7 @@ Foi desenvolvido no Eclipse</p>
 ## ⚙ PRÉ REQUISITOS
 
 Java -postgresql- eclipse
+Configurar o MAVEN na maquina
 
 ## 🚀 INICIALIZAÇÃO
 
